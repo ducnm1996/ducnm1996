@@ -1,5 +1,5 @@
-<h1 align="center">👨‍💻 Nguyễn Minh Đức</h1>
-<p align="center">
+<h1>👨‍💻 Nguyễn Minh Đức</h1>
+<p>
   <strong>Kỹ sư DevOps / SRE On-Premise</strong> <br/>
   <a href="mailto:minhducguyenit96@gmail.com">📧 minhducguyenit96@gmail.com</a> • 
   <a href="https://techai">🌐 techai</a> • 
