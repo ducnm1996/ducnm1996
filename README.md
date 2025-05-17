@@ -10,7 +10,7 @@
 
 ## 🚀 Giới thiệu
 
-Xin chào! Mình là một kỹ sư DevOps/SRE chuyên triển khai và vận hành các hệ thống On-Premise cho doanh nghiệp. Mình đam mê tự động hóa, hạ tầng ổn định và giám sát hiệu quả. 
+<b>Xin chào! Mình là một kỹ sư DevOps/SRE chuyên triển khai và vận hành các hệ thống On-Premise cho doanh nghiệp. Mình đam mê tự động hóa, hạ tầng ổn định và giám sát hiệu quả. </b>
 
 ---
 
