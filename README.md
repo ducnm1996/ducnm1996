@@ -1,44 +1,64 @@
-# 👨‍💻 Nguyễn Minh Đức
-
-🎯 **Vị trí mong muốn:** Kỹ sư DevOps / SRE On-Premise  
-📫 Email: minhducnguyenit96@gmail.com  
-🌐 Website: (https://techai.io.vn)  
-🔗 LinkedIn: [linkedin.com/in/ducnguyen](https://linkedin.com/in/ducnguyen)
-
-## 🧠 Kỹ năng chính
-- 🛠 DevOps: CI/CD, Docker, Kubernetes, Jenkins
-- ☁️ Hạ tầng: Linux, Nginx, Ansible, Prometheus, Grafana
-- 💻 Lập trình: Python, Bash, JavaScript
-- 📊 Công cụ: Git, GitHub Actions, VSCode, Zabbix
+<h1 align="center">👨‍💻 Nguyễn Minh Đức</h1>
+<p align="center">
+  <strong>Kỹ sư DevOps / SRE On-Premise</strong> <br/>
+  <a href="mailto:minhducguyenit96@gmail.com">📧 minhducguyenit96@gmail.com</a> • 
+  <a href="https://techai">🌐 techai</a> • 
+  <a href="https://linkedin.com/in/ducnguyen">🔗 LinkedIn</a>
+</p>
 
 ---
 
-## 🏢 Kinh nghiệm làm việc
+## 🚀 Giới thiệu
+
+Xin chào! Mình là một kỹ sư DevOps/SRE chuyên triển khai và vận hành các hệ thống On-Premise cho doanh nghiệp. Mình đam mê tự động hóa, hạ tầng ổn định và giám sát hiệu quả. 
+
+---
+
+## 🛠️ Kỹ năng chuyên môn
+
+- **Hạ tầng & Triển khai:** Linux, Nginx, Apache, VMware, Proxmox, Ansible, Terraform
+- **DevOps & Automation:** Git, CI/CD (GitHub Actions, Jenkins), Docker, Kubernetes, Helm
+- **Monitoring & Logging:** Zabbix, Prometheus, Grafana, ELK Stack
+- **Lập trình:** Python, Bash, YAML
+- **Bảo mật:** Fail2Ban, IPTables, OpenVPN, bảo vệ server vật lý
+- **Khác:** GIT, VSCode, Snipe-IT, Nextcloud, RocketChat
+
+---
+
+## 🧪 Dự án nổi bật
+
+| Tên dự án | Mô tả |
+|-----------|-------|
+| **Triển khai Zabbix toàn công ty** | Giám sát server, camera, hạ tầng mạng cho toàn hệ thống |
+| **Tích hợp Snipe-IT với Telegram** | Tự động gửi cảnh báo tài sản thay đổi qua Telegram |
+| **CI/CD nội bộ bằng GitHub Actions** | Tự động build & deploy phần mềm trong mạng nội bộ |
+
+---
+
+## 📍 Kinh nghiệm làm việc
 
 **Công ty CP Thành Thành Nam**  
-*Kỹ sư Hệ thống CNTT | 2021 - nay*  
-- Triển khai hệ thống camera, server, phần mềm nội bộ.
-- Vận hành Zabbix, hệ thống mạng, firewall.
-- Tham gia tư vấn lựa chọn nhà thầu CNTT.
+*Kỹ sư Hệ thống CNTT | 2021 – nay*  
+- Thiết kế và triển khai hệ thống mạng, camera, server, phần mềm nội bộ cho nhiều tòa nhà trong tập đoàn TTC.  
+- Quản lý, giám sát hệ thống CNTT vận hành 24/7 tại các tỉnh thành.  
+- Làm việc chặt chẽ với các nhà thầu, hỗ trợ lập dự toán, hồ sơ đấu thầu kỹ thuật.
 
 ---
 
-## 🎓 Học vấn
-**Đại học Bách Khoa TP.HCM**  
-*Ngành: Kỹ thuật Máy tính | Tốt nghiệp: 2020*
+## 📚 Học vấn & Chứng chỉ
+
+- 🎓 **ĐH Bách Khoa TP.HCM** – Ngành Kỹ thuật Máy tính
+- 🧾 AWS Certified Solutions Architect – Associate *(2023)*
+- 🧾 Chứng chỉ Quản trị Linux nâng cao *(2022)*
 
 ---
 
-## 🏆 Dự án nổi bật
-- **Triển khai hệ thống giám sát Zabbix toàn công ty**
-- **Tích hợp Snipe-IT với Telegram thông báo tài sản**
+## 💡 Quan điểm nghề nghiệp
+
+> "Hệ thống tốt là hệ thống không ai để ý – vì nó **vận hành ổn định**."
 
 ---
 
-## 📎 Chứng chỉ
-- AWS Certified Solutions Architect – Associate (2023)
-- Chứng chỉ Quản trị Linux nâng cao (2022)
-
----
-
-## 💬 "Luôn học hỏi và hành động có hệ thống."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ducnm1996&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+</p>
