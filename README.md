@@ -2,7 +2,7 @@
 
 🎯 **Vị trí mong muốn:** Kỹ sư DevOps / SRE On-Premise  
 📫 Email: minhducnguyenit96@gmail.com  
-🌐 Website: [your-portfolio.com](https://your-portfolio.com)  
+🌐 Website: (https://techai.io.vn)  
 🔗 LinkedIn: [linkedin.com/in/ducnguyen](https://linkedin.com/in/ducnguyen)
 
 ## 🧠 Kỹ năng chính
