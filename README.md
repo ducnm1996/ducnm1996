@@ -47,7 +47,7 @@ Xin chào! Mình là một kỹ sư DevOps/SRE chuyên triển khai và vận h�
 
 ## 📚 Học vấn & Chứng chỉ
 
-- 🎓 **ĐH Bách Khoa TP.HCM** – Ngành Kỹ thuật Máy tính
+- 🎓 **ĐH Tôn Đức Thắng** – Ngành Khoa học máy tính
 - 🧾 AWS Certified Solutions Architect – Associate *(2023)*
 - 🧾 Chứng chỉ Quản trị Linux nâng cao *(2022)*
 
