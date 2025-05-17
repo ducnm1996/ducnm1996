@@ -1,10 +1,9 @@
 # 👨‍💻 Nguyễn Minh Đức
 
 🎯 **Vị trí mong muốn:** Kỹ sư DevOps / SRE On-Premise  
-📫 Email: duc.nguyen@example.com  
-🌐 Website: [your-portfolio.com](https://your-portfolio.com)  
+📫 Email: minhducnguyenit96@gmail.com  
+🌐 Website: [https://techai ](http://techai.io.vn/) 
 🔗 LinkedIn: [linkedin.com/in/ducnguyen](https://linkedin.com/in/ducnguyen)
-
 ---
 
 ## 🧠 Kỹ năng chính
