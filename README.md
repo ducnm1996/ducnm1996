@@ -1,64 +1,79 @@
-<h1>👨‍💻 Nguyễn Minh Đức</h1>
-<p>
-  <strong>Kỹ sư DevOps / SRE On-Premise</strong> <br/>
-  <a href="mailto:minhducguyenit96@gmail.com">📧 minhducguyenit96@gmail.com</a> • 
-  <a href="https://techai">🌐 techai</a> • 
-  <a href="https://linkedin.com/in/ducnguyen">🔗 LinkedIn</a>
-</p>
+
+# NGUYỄN MINH ĐỨC
+**Chuyên viên Công nghệ Thông tin**
+
+📞 0794 233 087  
+📧 minhducnguyenit96@gmail.com  
+🏠 C10.904, CC NOXH 35 Hồ Học Lãm, P. An Lạc, Quận Bình Tân, TP.HCM  
+📅 Ngày sinh: 22/02/1996 — 💍 Đã kết hôn  
 
 ---
 
-<h2></b>🧏‍♂️ Giới thiệu</b></h2>
+## 🎯 MỤC TIÊU NGHỀ NGHIỆP
 
-Xin chào! Mình là một kỹ sư DevOps/SRE chuyên triển khai và vận hành các hệ thống On-Premise cho doanh nghiệp. Mình đam mê tự động hóa, hạ tầng ổn định và giám sát hiệu quả. 
-
----
-
-## 🛠️ Kỹ năng chuyên môn
-
-- **Hạ tầng & Triển khai:** Linux, Nginx, Apache, VMware, Proxmox, Ansible, Terraform
-- **DevOps & Automation:** Git, CI/CD (GitHub Actions, Jenkins), Docker, Kubernetes, Helm
-- **Monitoring & Logging:** Zabbix, Prometheus, Grafana, ELK Stack
-- **Lập trình:** Python, Bash, YAML
-- **Bảo mật:** Fail2Ban, IPTables, OpenVPN, bảo vệ server vật lý
-- **Khác:** GIT, VSCode, Snipe-IT, Nextcloud, RocketChat
+- Tham gia triển khai, quản lý và tối ưu các giải pháp hạ tầng, hệ thống, CCTV, phần mềm và dịch vụ IT nhằm hỗ trợ vận hành và phát triển doanh nghiệp.
+- Phát triển năng lực về quản trị hệ thống, cơ sở dữ liệu, lập trình và triển khai dự án CNTT hiệu quả, ổn định và bảo mật.
+- Hoàn thiện kỹ năng quản lý đội nhóm, xây dựng kế hoạch, checklist công việc và quy trình vận hành hiệu quả.
+- Đề xuất và triển khai giải pháp công nghệ phục vụ tối ưu hóa quy trình trong lĩnh vực quản lý tòa nhà, sản xuất, sự kiện...
+- Xây dựng chiến lược ứng dụng CNTT phù hợp với mục tiêu kinh doanh, đảm bảo đồng bộ, bền vững và linh hoạt theo thực tiễn doanh nghiệp.
 
 ---
 
-## 🧪 Dự án nổi bật
+## 🛠 KINH NGHIỆM LÀM VIỆC
 
-| Tên dự án | Mô tả |
-|-----------|-------|
-| **Triển khai Zabbix toàn công ty** | Giám sát server, camera, hạ tầng mạng cho toàn hệ thống |
-| **Tích hợp Snipe-IT với Telegram** | Tự động gửi cảnh báo tài sản thay đổi qua Telegram |
-| **CI/CD nội bộ bằng GitHub Actions** | Tự động build & deploy phần mềm trong mạng nội bộ |
+### Công ty CP Thành Thành Nam (Tập đoàn TTC)  
+**Chuyên viên CNTT** (04/2022 – nay)
+- Quản trị, giám sát toàn bộ hệ thống hạ tầng CNTT của công ty và chi nhánh.
+- Vận hành các phần mềm nội bộ: E-Office, Mail Server, Tổng đài ảo, Office 365, Autocad LT, Kaspersky, phần mềm quản lý tài sản, MISA, CRM...
+- Triển khai các hệ thống mã nguồn mở: phpIPAM, Zabbix, Snipe-IT, Service Desk.
+- Quản lý hệ thống camera (500+ thiết bị), đề xuất giải pháp AI nhận diện sự kiện.
+- Quản lý website, domain, hosting và thiết bị họp trực tuyến.
+- Thiết lập luồng phê duyệt văn bản, sao lưu định kỳ và hỗ trợ người dùng.
+- Làm việc với nhà cung cấp và báo cáo định kỳ cho Ban Lãnh đạo.
 
----
+### Công ty TNHH DC Sài Gòn  
+**Chuyên viên CNTT** (11/2021 – 03/2022)
+- Xây dựng và vận hành website công ty, sao lưu định kỳ.
+- Quản lý VPS, mail, hosting và domain.
+- Triển khai phần mềm MISA 2019, quản trị SQL Server.
+- Thiết kế hệ thống lưu trữ tập trung (AD server, NAS), cấu hình tổng đài và thiết bị mạng.
 
-## 📍 Kinh nghiệm làm việc
-
-**Công ty CP Thành Thành Nam**  
-*Kỹ sư Hệ thống CNTT | 2021 – nay*  
-- Thiết kế và triển khai hệ thống mạng, camera, server, phần mềm nội bộ cho nhiều tòa nhà trong tập đoàn TTC.  
-- Quản lý, giám sát hệ thống CNTT vận hành 24/7 tại các tỉnh thành.  
-- Làm việc chặt chẽ với các nhà thầu, hỗ trợ lập dự toán, hồ sơ đấu thầu kỹ thuật.
-
----
-
-## 📚 Học vấn & Chứng chỉ
-
-- 🎓 **ĐH Tôn Đức Thắng** – Ngành Khoa học máy tính
-- 🧾 AWS Certified Solutions Architect – Associate *(2023)*
-- 🧾 Chứng chỉ Quản trị Linux nâng cao *(2022)*
-
----
-
-## 💡 Quan điểm nghề nghiệp
-
-> "Hệ thống tốt là hệ thống không ai để ý – vì nó **vận hành ổn định**."
+### Tập đoàn Hoàng Gia  
+**Nhân viên CNTT** (04/2017 – 11/2021)
+- Quản lý 5 website của tập đoàn, hỗ trợ xây dựng và vận hành.
+- Quản lý dịch vụ CNTT: VPS mail, hosting, domain.
+- Triển khai MISA (2012–2021), quản trị SQL Server, backup định kỳ.
+- Có kiến thức về MCSA, cấu hình router và Access Point.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ducnm1996&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
-</p>
+## 🎓 TRÌNH ĐỘ HỌC VẤN
+
+**Đại học Tôn Đức Thắng**  
+Chuyên ngành: Công nghệ Thông tin
+
+---
+
+## 🧠 KỸ NĂNG CHUYÊN MÔN
+
+- Quản lý hạ tầng hệ thống & mạng nội bộ  
+- Vận hành hệ thống phần mềm, cơ sở dữ liệu (SQL Server, MISA)  
+- Triển khai phần mềm mã nguồn mở  
+- Hỗ trợ người dùng – Helpdesk  
+- Xây dựng & cải tiến quy trình CNTT  
+- Kỹ năng lập kế hoạch, quản lý đội nhóm  
+- Giao tiếp & làm việc với nhà cung cấp  
+
+---
+
+## 🌐 NGOẠI NGỮ
+
+**Tiếng Anh** – Trình độ Trung cấp
+
+---
+
+## 📩 THÔNG TIN THAM KHẢO
+
+- **Dương Tuấn An** – Trưởng phòng Hạ tầng TTCI – 0785 338 989  
+- **Nguyễn Thanh Phong** – Phó phòng CNTT Tập đoàn Hoàng Gia – 0933 073 027  
+- **Trương Ngọc Ninh** – Trưởng phòng CNTT Tập đoàn Hoàng Gia – 0937 558 722  
